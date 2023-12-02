@@ -13,7 +13,7 @@ To setup, connect your micro:bit to your computer via USB. [Download the latest 
 # Instructions
 The program will display its version on startup. Leave as is to recieve messages.
 
-To enter Send mode, press A. Messages are typed using Morse code, A being dot(.) and B being dash(-).
+To enter Send mode, press A and wait for the ... to appear on the screen. Messages are typed using Morse code, A being dot(.) and B being dash(-).
 
 To confirm your letter, press A+B. The letter will be displayed. Keep doing this for each letter.
 
